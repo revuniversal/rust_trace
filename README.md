@@ -1,2 +1,9 @@
 # rust_trace
-A ray tracing implementation, written in rust
+
+An ascii ray tracing implementation, written in rust
+
+## Running the example locally
+
+```bash
+cargo build && cargo run
+```
